@@ -1,0 +1,67 @@
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe.config
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.pdb
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.exe
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.pdb
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csprojResolveAssemblyReference.cache
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.Frm_iva.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_producto.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_cliente.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_proveedor.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.Properties.Resources.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.GenerateResource.Cache
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.exe
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.pdb
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_principal.resources
+C:\Users\MEC\documents\visual studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaClientes.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaIvas.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProductos.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProveedores.resources
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_compra.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe.config
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.exe
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.pdb
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.pdb
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.exe
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.pdb
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csprojResolveAssemblyReference.cache
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_compra.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_iva.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaIvas.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProductos.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProveedores.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_principal.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_producto.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_cliente.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_proveedor.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaClientes.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.Properties.Resources.resources
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.GenerateResource.Cache
+D:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe.config
+D:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.exe
+D:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.pdb
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe.config
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.exe
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\stock_rafaelgamarra.pdb
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.exe
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.pdb
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\bin\Debug\logica_v2.exe.config
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.AssemblyReference.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_compra.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_iva.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaIvas.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProductos.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaProveedores.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_principal.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_producto.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_cliente.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_proveedor.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.frm_listaClientes.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.Properties.Resources.resources
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.GenerateResource.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.CoreCompileInputs.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.csproj.CopyComplete
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.exe
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\stock_rafaelgamarra\obj\Debug\stock_rafaelgamarra.pdb

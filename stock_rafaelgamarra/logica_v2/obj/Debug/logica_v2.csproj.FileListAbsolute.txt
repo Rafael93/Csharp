@@ -1,0 +1,20 @@
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe.config
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.pdb
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.csprojResolveAssemblyReference.cache
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.exe
+C:\Users\MEC\Documents\Visual Studio 2015\Projects\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.pdb
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe.config
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.pdb
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.csprojResolveAssemblyReference.cache
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.exe
+E:\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.pdb
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe.config
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.exe
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\bin\Debug\logica_v2.pdb
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.csproj.AssemblyReference.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.csproj.CoreCompileInputs.cache
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.exe
+D:\Facultad\programacion 3\programación 3 lord\[P3-CYT-17]Practico#7\stock_rafaelgamarra\logica_v2\obj\Debug\logica_v2.pdb
